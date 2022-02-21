@@ -17,7 +17,7 @@ option(USE_SYSTEM_LIBCOMMUNI "Use system communi library" OFF)
 option(USE_SYSTEM_QTKEYCHAIN "Use system QtKeychain library" OFF)
 option(BUILD_WITH_QTKEYCHAIN "Build Chatterino with support for your system key chain" ON)
 option(USE_PRECOMPILED_HEADERS "Use precompiled headers" ON)
-option(BUILD_WITH_QT6 "Use Qt6 instead of default Qt5" OFF)
+option(BUILD_WITH_QT6 "Use Qt6 instead of default Qt5" ON)
 
 option(USE_CONAN "Use conan" OFF)
 
